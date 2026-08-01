@@ -13,7 +13,12 @@ A REST API for managing personal to-do items with user authentication. <br>
 A REST API that wraps the Visual Crossing weather API, caches responses with Redis, and serves weather data for any city.  <br>
 Visual Crossing hava API-sini əhatə edən, cavabları Redis ilə keşləyən və istənilən şəhər üçün hava məlumatı təqdim edən REST API.
 
-### 4. [Expense Tracker API](https://github.com.ismailselimzade/ExpenseTrackerAPI)
+### 4. [Expense Tracker API](https://github.com/ismailselimzade/ExpenseTrackerAPI)
 
 A RESTful API for tracking personal expenses with JWT authentication.  
 JWT autentifikasiyası ilə şəxsi xərcləri izləmək üçün RESTful API.
+
+### 5. [Markdown Note-taking App](https://github.com/ismailselimzade/MarkdownNoteTakingApp)
+
+A REST API for creating and managing markdown notes with file attachments, live markdown rendering, and grammar checking.  
+Fayl əlavələri, canlı markdown render və qrammatika yoxlaması ilə markdown qeydləri yaratmaq və idarə etmək üçün REST API.
