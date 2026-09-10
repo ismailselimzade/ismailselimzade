@@ -22,3 +22,8 @@ JWT autentifikasiyası ilə şəxsi xərcləri izləmək üçün RESTful API.
 
 A REST API for creating and managing markdown notes with file attachments, live markdown rendering, and grammar checking.  
 Fayl əlavələri, canlı markdown render və qrammatika yoxlaması ilə markdown qeydləri yaratmaq və idarə etmək üçün REST API.
+
+### 6. [URL Shortening Service](https://github.com/ismailselimzade/UrlShorteningService)
+
+A REST API that shortens long URLs into unique short codes and redirects to the original URL when visited.  
+Uzun URL-ləri unikal qısa kodlara çevirən və qısa koda daxil olduqda orijinal URL-ə yönləndirən REST API.
