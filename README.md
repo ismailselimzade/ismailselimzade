@@ -27,3 +27,8 @@ Fayl əlavələri, canlı markdown render və qrammatika yoxlaması ilə markdow
 
 A REST API that shortens long URLs into unique short codes and redirects to the original URL when visited.  
 Uzun URL-ləri unikal qısa kodlara çevirən və qısa koda daxil olduqda orijinal URL-ə yönləndirən REST API.
+
+### 7. [Real-time Polling App](https://github.com/ismailselimzade/RealtimePollingApp)
+
+A real-time messaging server built with WebSockets.  
+WebSocket-lər üzərində qurulmuş real vaxt rejimində mesajlaşma serveri.
