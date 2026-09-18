@@ -32,3 +32,7 @@ Uzun URL-ləri unikal qısa kodlara çevirən və qısa koda daxil olduqda oriji
 
 A real-time messaging server built with WebSockets.  
 WebSocket-lər üzərində qurulmuş real vaxt rejimində mesajlaşma serveri.
+
+### 8. [Simple E-Commerce API](https://github.com/ismailselimzade/SimpleECommerceAPI)
+...Work in progress  
+...Hazırlanması davam edir
