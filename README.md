@@ -34,5 +34,6 @@ A real-time messaging server built with WebSockets.
 WebSocket-lər üzərində qurulmuş real vaxt rejimində mesajlaşma serveri.
 
 ### 8. [Simple E-Commerce API](https://github.com/ismailselimzade/SimpleECommerceAPI)
-...Work in progress  
-...Hazırlanması davam edir
+
+A RESTful e-commerce API with authentication, cart, orders, and payment integration.  
+Autentifikasiya, səbət, sifariş və ödəniş inteqrasiyası olan RESTful e-ticarət API-si.
