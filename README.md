@@ -1,39 +1,57 @@
-### 1. [Personal Blogging Platform API](https://github.com/ismailselimzade/PersonalBloggingPlatformAPI)
+Building Web APIs, exploring data structures, and solving algorithmic problems.  
+Web API-lərin qurulması, məlumat strukturları və alqoritmik məsələlərin həlli üzərində işləyirəm.
 
-A simple REST API to create, read, update and delete blog articles. <br>
-Blog məqalələri yaratmaq, oxumaq, yeniləmək və silmək üçün sadə REST API.
 
-### 2. [To-Do List API](https://github.com/ismailselimzade/ToDoListAPI)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,docker,git,postman" />
+</p>
 
-A REST API for managing personal to-do items with user authentication. <br>
-İstifadəçi autentifikasiyası ilə şəxsi tapşırıqları idarə etmək üçün REST API.
+---
 
-### 3. [Weather API Wrapper Service](https://github.com/ismailselimzade/WeatherAPIWrapperService)
+### 🚀 Featured Projects & Web APIs
 
-A REST API that wraps the Visual Crossing weather API, caches responses with Redis, and serves weather data for any city.  <br>
-Visual Crossing hava API-sini əhatə edən, cavabları Redis ilə keşləyən və istənilən şəhər üçün hava məlumatı təqdim edən REST API.
+#### 📝 [Personal Blogging Platform API](https://github.com/ismailselimzade/PersonalBloggingPlatformAPI)
+- A REST API for creating, reading, updating, and deleting blog articles.
+- *Blog məqalələrinin yaradılması, oxunması, yenilənməsi və silinməsi üçün REST API.*
 
-### 4. [Expense Tracker API](https://github.com/ismailselimzade/ExpenseTrackerAPI)
+#### ✅ [To-Do List API](https://github.com/ismailselimzade/ToDoListAPI)
+- A REST API with user authentication for managing personal task items.
+- *İstifadəçi autentifikasiyası ilə şəxsi tapşırıqların idarə olunması üçün REST API.*
 
-A RESTful API for tracking personal expenses with JWT authentication.  
-JWT autentifikasiyası ilə şəxsi xərcləri izləmək üçün RESTful API.
+#### 🌤️ [Weather API Wrapper Service](https://github.com/ismailselimzade/WeatherAPIWrapperService)
+- A REST API that wraps the Visual Crossing weather service, caches responses using Redis, and provides weather data for any city.
+- *Visual Crossing hava xidmətini əhatə edən, cavabları Redis vasitəsilə keşləyən və istənilən şəhər üçün hava məlumatı təqdim edən REST API.*
 
-### 5. [Markdown Note-taking App](https://github.com/ismailselimzade/MarkdownNoteTakingApp)
+#### 💰 [Expense Tracker API](https://github.com/ismailselimzade/ExpenseTrackerAPI)
+- A RESTful API featuring JWT authentication for tracking personal expenses.
+- *Şəxsi xərclərin izlənilməsi üçün JWT autentifikasiyasına malik RESTful API.*
 
-A REST API for creating and managing markdown notes with file attachments, live markdown rendering, and grammar checking.  
-Fayl əlavələri, canlı markdown render və qrammatika yoxlaması ilə markdown qeydləri yaratmaq və idarə etmək üçün REST API.
+#### 📑 [Markdown Note-taking App](https://github.com/ismailselimzade/MarkdownNoteTakingApp)
+- A REST API for creating and managing markdown notes featuring file attachments, live rendering, and grammar checking.
+- *Fayl əlavələri, canlı render və qrammatika yoxlaması ilə markdown qeydlərinin yaradılması və idarə edilməsi üçün REST API.*
 
-### 6. [URL Shortening Service](https://github.com/ismailselimzade/UrlShorteningService)
+#### 🔗 [URL Shortening Service](https://github.com/ismailselimzade/UrlShorteningService)
+- A REST API that shortens long URLs into unique short codes and redirects visitors to the original link.
+- *Uzun URL-ləri unikal qısa kodlara çevirən və ziyarətçiləri orijinal keçidə yönləndirən REST API.*
 
-A REST API that shortens long URLs into unique short codes and redirects to the original URL when visited.  
-Uzun URL-ləri unikal qısa kodlara çevirən və qısa koda daxil olduqda orijinal URL-ə yönləndirən REST API.
+#### 💬 [Real-time Polling App](https://github.com/ismailselimzade/RealtimePollingApp)
+- A real-time polling server built with WebSockets.
+- *WebSocket-lər üzərində qurulmuş real vaxt rejimində səsvermə serveri.*
 
-### 7. [Real-time Polling App](https://github.com/ismailselimzade/RealtimePollingApp)
+#### 🛒 [Simple E-Commerce API](https://github.com/ismailselimzade/SimpleECommerceAPI)
+- A RESTful e-commerce backend with authentication, shopping cart, orders, and payment gateway integration.
+- *Autentifikasiya, səbət, sifarişlər və ödəniş şlüzü inteqrasiyası olan RESTful e-ticarət backend-i.*
 
-A real-time messaging server built with WebSockets.  
-WebSocket-lər üzərində qurulmuş real vaxt rejimində mesajlaşma serveri.
+---
 
-### 8. [Simple E-Commerce API](https://github.com/ismailselimzade/SimpleECommerceAPI)
+### 🧠 Problem Solving & Algorithms
+- Solutions to coding challenges on **LeetCode**, **HackerRank**, and **Codewars**.  
+  *LeetCode, HackerRank və Codewars platformalarında alqoritmik məsələlərin həlləri.*
+- 📁 Repository: [ismailselimzade/ProblemSolving](https://github.com/ismailselimzade/ProblemSolving)
 
-A RESTful e-commerce API with authentication, cart, orders, and payment integration.  
-Autentifikasiya, səbət, sifariş və ödəniş inteqrasiyası olan RESTful e-ticarət API-si.
+---
+<p align="left">
+  <img height="165" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailselimzade&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
